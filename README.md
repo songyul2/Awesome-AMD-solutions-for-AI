@@ -26,3 +26,8 @@ export HIP_VISIBLE_DEVICES=0
 
 ## SAM from YOLO
 https://docs.ultralytics.com/models/sam/#how-to-use-sam-versatility-and-power-in-image-segmentation
+
+## alpaca lora
+https://github.com/Lzy17/bitsandbytes-rocm/tree/main?tab=readme-ov-file
+
+https://github.com/tloen/alpaca-lora
