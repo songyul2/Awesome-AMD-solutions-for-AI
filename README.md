@@ -23,3 +23,6 @@ vi ~/.bash_profile
 Add the following line
 
 export HIP_VISIBLE_DEVICES=0
+
+## SAM from YOLO
+https://docs.ultralytics.com/models/sam/#how-to-use-sam-versatility-and-power-in-image-segmentation
