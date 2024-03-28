@@ -1,5 +1,5 @@
 # Awesome-AMD-solutions-for-AI
-AMD ROCm, PyTorch, etc
+AMD ROCm, PyTorch, etc on Ubuntu 22.04
 inspired by https://phazertech.com/tutorials/rocm.html
 
 sudo apt install "linux-headers-$(uname -r)" "linux-modules-extra-$(uname -r)"
