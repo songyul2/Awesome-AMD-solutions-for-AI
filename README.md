@@ -6,9 +6,9 @@ sudo apt install "linux-headers-$(uname -r)" "linux-modules-extra-$(uname -r)"
 
 sudo usermod -a -G render,video $LOGNAME
 
-Enter one of the following lines depending on your version of Ubuntu:
+Enter the following line for Ubuntu 22.04:
 
-Ubuntu 22.04: wget https://repo.radeon.com/amdgpu-install/6.0.2/ubuntu/jammy/amdgpu-install_6.0.60002-1_all.deb
+wget https://repo.radeon.com/amdgpu-install/6.0.2/ubuntu/jammy/amdgpu-install_6.0.60002-1_all.deb
 
 sudo apt install ./amdgpu-install_6.0.60002-1_all.deb
 
