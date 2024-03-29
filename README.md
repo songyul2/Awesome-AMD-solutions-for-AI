@@ -22,6 +22,8 @@ Add the following line
 
 export HIP_VISIBLE_DEVICES=0
 
+Restart your computer before continuing.
+
 ## SAM from YOLO
 https://docs.ultralytics.com/models/sam/#how-to-use-sam-versatility-and-power-in-image-segmentation
 
