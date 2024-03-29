@@ -28,6 +28,8 @@ export HIP_VISIBLE_DEVICES=0
 https://docs.ultralytics.com/models/sam/#how-to-use-sam-versatility-and-power-in-image-segmentation
 
 ## alpaca lora
-https://github.com/Lzy17/bitsandbytes-rocm/tree/main?tab=readme-ov-file
+bnb issue needs to be resolved first.
+https://github.com/TimDettmers/bitsandbytes/issues/47
+
 
 https://github.com/tloen/alpaca-lora
