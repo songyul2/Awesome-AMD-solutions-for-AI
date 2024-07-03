@@ -1,6 +1,20 @@
 # Awesome-AMD-solutions-for-AI
 AMD ROCm, PyTorch, etc on Ubuntu 22.04
-inspired by https://phazertech.com/tutorials/rocm.html
+
+For convenience, configure sudo to never ask for your password.
+
+`sudo visudo`
+
+In the bottom of the file, add the following line:
+
+$USER ALL=(ALL) NOPASSWD: ALL
+
+Where $USER is your username on your system. 
+
+https://github.com/Samiii777/AMD_MachineLearning/tree/main/linux
+provides shell scripts. Code after line 34 in install.sh installs python packages and can be commented out.
+
+Another guide is at https://phazertech.com/tutorials/rocm.html
 
 sudo apt install "linux-headers-$(uname -r)" "linux-modules-extra-$(uname -r)"
 
